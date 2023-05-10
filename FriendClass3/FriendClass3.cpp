@@ -6,5 +6,6 @@ class pelajar;
 
 class manusia {
 public:
-	void showNilaipelajar
+	void showNilaipelajar(pelajar&);
 };
+
